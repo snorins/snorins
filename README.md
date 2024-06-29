@@ -7,14 +7,14 @@ Strongly passionate about programming as well as IT in general.
 <br/>
 Ready to jump into the unknown with a positive can-do attitude.
 
-<h3>Languages</h3>
+<h4>Languages</h4>
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
-<h3>Frameworks</h3>
+<h4>Frameworks</h4>
 <div>
   <img src="https://github.com/jsnorins/draggable-slider/assets/104723218/550fcc93-18f2-4428-980b-4b78fee62335" alt="Yii 2.0"/>
   <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
@@ -24,7 +24,7 @@ Ready to jump into the unknown with a positive can-do attitude.
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
 
-<h3>Tools/Other</h3>
+<h4>Tools/other</h4>
 <div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
@@ -37,7 +37,7 @@ Ready to jump into the unknown with a positive can-do attitude.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
-<h3>Contacts</h3>
+<h4>Contacts</h4>
 <p>
   Send me an e-mail to <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> 
   <br/>
