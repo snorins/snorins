@@ -9,19 +9,19 @@ Ready to jump into the unknown with a positive can-do attitude.
 
 <h4>Languages</h4>
 <div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/1b99170e-60ba-4632-9408-4bc1ef5f7877" alt="PHP"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/d84e2092-d4de-47cc-a1a1-1baf1f0df3f4" alt="JavaScript"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/b4f1f7fc-de63-4a44-8f6b-ba301f0f9e62" alt="TypeScript"/>
 </div>
 
 <h4>Frameworks</h4>
 <div>
-  <img src="https://github.com/jsnorins/draggable-slider/assets/104723218/550fcc93-18f2-4428-980b-4b78fee62335" alt="Yii 2.0"/>
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/7e27fd46-284c-44b8-9479-3c1f433623df" alt="Yii 2.0"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/c9d00695-aae2-40c9-8a89-545ef7e5f013" alt="Vue.js"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/84cfe64e-8f81-495e-8393-048e57cc7604" alt="Laravel"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/77ae21d5-c2ed-4db6-977f-3bf0bb43ff55" alt="Angular"/>
 </div>
 
 <h4>Tools/other</h4>
