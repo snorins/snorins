@@ -27,6 +27,7 @@ Ready to jump into the unknown with a positive can-do attitude.
 <h3>Frameworks I use</h3>
 <div>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://svgshare.com/i/phj.svg" alt="Stencil JS"/>
 </div>
@@ -45,17 +46,6 @@ Ready to jump into the unknown with a positive can-do attitude.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/>
 </div>
-
-<h3>Latest Projects (deprecated)</h3>
-
-<h4><a href="https://github.com/janisjuniors/css-project">Fully Responsive & Optimized Website</a></h4>
-<p>CSS Learning project using a design system with responsive design and website optimizations.</p>
-
-<h4><a href="https://github.com/janisjuniors/cv-builder">CV Builder</a></h4>
-<p>Application for CV creation with PDF download feature.</p>
-
-<h4><a href="https://github.com/janisjuniors/check-weather">Check Weather</a></h4>
-<p>Simple vanilla JavaScript weather-checking, mobile-friendly application.</p>
 
 <h3>Contacts</h3>
 <p>
