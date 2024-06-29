@@ -26,15 +26,15 @@ Ready to jump into the unknown with a positive can-do attitude.
 
 <h4>Tools/other</h4>
 <div>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/3cf14e82-60c8-43ed-9d47-15d1d262bb4a" alt="Git"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/ec90aa2c-a1a3-4955-8983-6ae63f955743" alt="GitLab"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/dfab7e34-929f-47df-b9eb-aca3c8d4aecd" alt="Docker"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/87bafee6-da59-47a5-bb5f-5c6f4af6169f" alt="Jira"/>
 </div>
 <div>
-  <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/63f36048-b29a-462c-8667-d262007a6400" alt="PHPStorm"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/35ab09a3-44f5-433e-a46d-ba044d025970" alt="Mac OS"/>
+  <img src="https://github.com/jsnorins/jsnorins/assets/104723218/014e443d-64b3-492c-a856-52b17883a91f" alt="Linux"/>
 </div>
 
 <h4>Contacts</h4>
