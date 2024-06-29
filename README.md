@@ -1,4 +1,4 @@
-<h3 align="center">Passionate Software Developer From Latvia</h3>
+<h3 align="center">Software Developer From Latvia</h3>
 
 <br/>
 Decisive, results-driven individual with great attention to detail.
