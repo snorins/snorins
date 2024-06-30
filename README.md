@@ -17,7 +17,7 @@
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/77ae21d5-c2ed-4db6-977f-3bf0bb43ff55" alt="Angular"/>
 </div>
 
-<h4>Tools/other</h4>
+<h4>Tools, software, operating systems</h4>
 <div>
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/3cf14e82-60c8-43ed-9d47-15d1d262bb4a" alt="Git"/>
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/ec90aa2c-a1a3-4955-8983-6ae63f955743" alt="GitLab"/>
