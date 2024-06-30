@@ -1,12 +1,5 @@
 <h3 align="center">Software Developer From Latvia</h3>
 
-<br/>
-Decisive, results-driven individual with great attention to detail.
-<br/>
-Strongly passionate about programming as well as IT in general.
-<br/>
-Ready to jump into the unknown with a positive can-do attitude.
-
 <h4>Languages</h4>
 <div>
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/1b99170e-60ba-4632-9408-4bc1ef5f7877" alt="PHP"/>
@@ -39,7 +32,7 @@ Ready to jump into the unknown with a positive can-do attitude.
 
 <h4>Contacts</h4>
 <p>
-  Send me an e-mail to <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> 
+  Send me a DM on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins">LinkedIn</a>
   <br/>
-  Or contact me on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins"><b>LinkedIn</b></a>
+  Or send me an e-mail to <a href="mailto:janis.jr.snorins@gmail.com">janis.jr.snorins@gmail.com</a> 
 </p>
