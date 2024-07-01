@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer From Latvia</h3>
+<h3 align="center">Software Developer</h3>
 
 <h4>Languages</h4>
 <div>
