@@ -1,6 +1,6 @@
 <h3 align="center">Software Developer</h3>
 
-<h4>Languages</h4>
+<h4>Programming languages</h4>
 <div>
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/1b99170e-60ba-4632-9408-4bc1ef5f7877" alt="PHP"/>
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/d84e2092-d4de-47cc-a1a1-1baf1f0df3f4" alt="JavaScript"/>
