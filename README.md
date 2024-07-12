@@ -32,7 +32,7 @@
 
 <h4>Contacts</h4>
 <p>
-  Send me a DM on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins">LinkedIn</a>
+  Send me a DM on <a target="_blank" href="https://www.linkedin.com/in/snorins">LinkedIn</a>
   <br/>
   Or send me an e-mail to <a href="mailto:janis.jr.snorins@gmail.com">janis.jr.snorins@gmail.com</a> 
 </p>
