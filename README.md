@@ -29,10 +29,3 @@
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/35ab09a3-44f5-433e-a46d-ba044d025970" alt="Mac OS"/>
   <img src="https://github.com/jsnorins/jsnorins/assets/104723218/014e443d-64b3-492c-a856-52b17883a91f" alt="Linux"/>
 </div>
-
-<h4>Contacts</h4>
-<p>
-  Send me a DM on <a target="_blank" href="https://www.linkedin.com/in/snorins">LinkedIn</a>
-  <br/>
-  Or send me an e-mail to <a href="mailto:janis.jr.snorins@gmail.com">janis.jr.snorins@gmail.com</a> 
-</p>
